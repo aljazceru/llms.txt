@@ -6,7 +6,7 @@ Collection of llms.txt files I've made for easier development with the help of l
 ## breez
 - [nodeless sdk](https://github.com/breez/breez-sdk-liquid-docs/tree/llm-context-files/examples/breez-nodeless-llms) - llms.txt files for nodless sdk
 
-## liquid
+## liquid network 
 - [lwk](https://liquidnetwork.wiki/llms/lwk-llms.txt) - lwk python bindings library
 
 ## nostr
